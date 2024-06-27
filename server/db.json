@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Giày Nike",
+      "price": 1000,
+      "quantity": 11,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIk_ZxK28WzNHSgJdVR6pD5l3X-T_cNFB7g&s"
+    },
+    {
+      "id": 2,
+      "name": "Áo Thom Browne",
+      "price": 1200,
+      "quantity": 10,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLpKK9qhqQOvyQEKAw9mbpLi--q04ZkEajA&s"
+    },
+    {
+      "id": 3,
+      "name": "Áo Saint Laurent",
+      "price": 999,
+      "quantity": 22,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3VvSYQrcekHi35JR2nRjdJZ9A0rc_eeUtg&s"
+    }
+  ],
+  "carts": [
+    {
+      "id": 2,
+      "name": "Áo Thom Browne",
+      "price": 1200,
+      "quantity": 10,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLpKK9qhqQOvyQEKAw9mbpLi--q04ZkEajA&s"
+    },
+    {
+      "id": 3,
+      "name": "Áo Saint Laurent",
+      "price": 999,
+      "quantity": 22,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3VvSYQrcekHi35JR2nRjdJZ9A0rc_eeUtg&s"
+    }
+  ]
+}
